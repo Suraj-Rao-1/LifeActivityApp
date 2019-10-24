@@ -54,6 +54,50 @@ public class Movies {
             new Movies("Inside Out"),
             new Movies("Cars"),
     };
+/*
+    public String getRestaurant() {
+        return restaurant;
+    }
+
+    public void setRestaurant(String restaurant) {
+        this.restaurant = restaurant;
+    }
+
+    public String getDescription() {
+        return description;
+    }
+
+    public void setDescription(String description) {
+        this.description = description;
+    }
+
+    public int getPrice() {
+        return price;
+    }
+
+    public void setPrice(int price) {
+        this.price = price;
+    }
+
+    public String getType() {
+        return type;
+    }
+
+    public void setType(String type) {
+        this.type = type;
+    }
+
+    public static Restaurants[] getBreakfastPlaces() {
+        return breakfastPlaces;
+    }
+
+    public static Restaurants[] getLunchPlaces() {
+        return lunchPlaces;
+    }
+*/
+    public static Movies[] getAction() {
+        return Action;
+    }
 
 
 
